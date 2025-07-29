@@ -3,8 +3,13 @@ author: Vileap Vong
 pubDatetime: 2025-07-29
 modDatetime: 2025-07-29
 title: Testing Blog Post
-featured: false
+ogImage: Testing Blog Post
+slug: testing-blog-post
+featured: true
 draft: false
+tags:
+  - world-news
+description: testing blog post description
 category:
   - world-news
 ---
