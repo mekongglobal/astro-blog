@@ -3,7 +3,7 @@ author: Vileap Vong
 pubDatetime: 2025-07-29
 modDatetime: 2025-07-29
 title: Testing Blog Post
-ogImage: Testing Blog Post
+ogImage: /assets/hero-featured.jpg
 slug: testing-blog-post
 featured: true
 draft: false
