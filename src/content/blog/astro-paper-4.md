@@ -1,5 +1,7 @@
 ---
 author: Cambodia Insight
+pubDatetime: 2025-07-29
+modDatetime: 2025-07-29
 title: Our Heroes
 ogImage: /our-hero-rest-in-peace.jpg
 slug: our-bravery-hero
