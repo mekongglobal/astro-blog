@@ -1,5 +1,5 @@
 ---
-author: Cambodia Update
+author: Cambodia Insight
 pubDatetime: 2025-07-29
 modDatetime: 2025-07-29
 title: One Life Fled The War Twice
