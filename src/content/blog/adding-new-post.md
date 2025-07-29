@@ -11,6 +11,8 @@ tags:
   - docs
 description: Cambodia and Thailand Agree to Immediate Ceasefire at 00:00 29th
   July 2025 and Establish Peace Framework at Malaysia-Hosted Special Meeting
+category:
+  - world-news
 ---
 # Cambodia and Thailand Agree to Immediate Ceasefire at 00:00 29th July 2025 and Establish Peace Framework at Malaysia-Hosted Special Meeting
 
