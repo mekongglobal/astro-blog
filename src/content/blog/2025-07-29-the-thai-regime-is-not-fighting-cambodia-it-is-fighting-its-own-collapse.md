@@ -5,7 +5,7 @@ modDatetime: 2025-07-28
 title: THE THAI REGIME IS NOT FIGHTING CAMBODIA. IT IS FIGHTING ITS OWN COLLAPSE
 ogImage: /thai-regime-image.jpg
 slug: thai-regime-is-not-fighint-cambodia
-featured: false
+featured: true
 draft: false
 tags:
   - world-news
