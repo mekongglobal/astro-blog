@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://mekongglobalfact.pages.dev/", // replace this with your deployed domain
-  author: "Mekong Global Facts Team",
-  desc: "Mekong Global Facts brings you verified news, insightful blogs, and in-depth analysis focused on the Mekong region and beyond.",
-  title: "Mekong Global Facts",
+  website: "https://cambodiainsight.pages.dev/", // replace this with your deployed domain
+  author: "Cambodia Insight",
+  desc: "Discover Cambodia through reliable news and insightful blogs. Cambodia Insight brings you updates and perspectives on the nation’s evolving landscape.",
+  title: "Cambodia Insight",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,

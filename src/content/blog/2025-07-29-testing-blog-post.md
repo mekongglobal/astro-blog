@@ -3,7 +3,7 @@ author: Mekong Team
 pubDatetime: 2025-07-29
 modDatetime: 2025-07-29
 title: Who Really Started the War, and Who Wants Peace?
-ogImage: /2025-07-27 21.29.01.jpg
+ogImage: /IMG_1263.JPG
 slug: who-really-started-the-war
 featured: true
 draft: false
@@ -77,5 +77,7 @@ But what happened after these calls for peace?
 When our soldiers are attacked, when our territory is violated, when agreements are broken — what choice do we have besides defending our homeland? Why provoke us? What is the purpose of this aggression?
 
 <p style="text-align: center">To the world: please, hear our side. Please, share our truth. We are a small nation fighting only to protect our home. Cambodia wants peace. <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t8e/2/16/1f1f0_1f1ed.png" alt="🇰🇭" class="xz74otr x15mokao x1ga7v0g x16uus16 xbiv7yw" style="border: 0px; border-radius: 0px; object-fit: fill;" width="16" height="16"></p>
+
+![](/IMG_1263.JPG)
 
 ![](/2025-07-27%2021.29.01.jpg)
